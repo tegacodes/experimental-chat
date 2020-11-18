@@ -2,15 +2,15 @@
 
 *This lecture is prepared from collaborative research with legendary Carnegie Mellon Prof. Golan Levin. We have written a book on computational art together.*
 
-###Collective Memory & Experimentatal Collaboration
+### Collective Memory & Experimentatal Collaboration
 
-#####Cairns
+##### Cairns
 
 Cairns are human-made piles of stones. Cairns have been and are used for a broad variety of purposes, from prehistoric times to the present, often as landmarks, memorials and trail markers. It is a collaboratively created structure, built one stone at a time, often over the course of centuries.
 
 ![image](images/Shankend-Cairn.jpg)
 
-#####Your World of Text
+##### Your World of Text
 
 Andrew Badr's Your World of Text is an infinite grid of text editable by any visitor. "The changes made by other people appear on your screen as they happen. Everyone starts in the same place, but you can scroll through the world using your mouse. Put any letters at the end of the URL to go to a new world. For example, http://yourworldoftext.com/forexample. They all start off blank. You can also create a custom world for you and your friends."
 
@@ -18,22 +18,22 @@ Andrew Badr's Your World of Text is an infinite grid of text editable by any vis
 
 [https://www.yourworldoftext.com/](https://www.yourworldoftext.com/)
 
-#####Telegarden (1995)
+##### Telegarden (1995)
 
 Ken Goldberg & Joseph Santarromana's TeleGarden is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
 
 [![](images/telegarden.jpg)](https://youtu.be/BCEC1tfc5Jc)
 
-#####The Smaller Picture (2002)
+##### The Smaller Picture (2002)
 
 The Smaller Picture (2002) by Kevan Davis is one of the first massively crowdsourced Internet artworks, and is still operational at https://kevan.org/smaller.cgi, but the best part is no longer there — an emergent alphabet created by the hive mind.
 
 ![](images/datavis_smaller_picture.jpg)
 
 
-###Communication across distance 
+### Communication across distance 
 
-#####Hole in Space (1980)
+##### Hole in Space (1980)
 
 Hole in Space (1980) was a "communication sculpture" by Kit Galloway and Sherrie Rabinowitz, which used live two-way video to connect street-level audiences in Los Angeles and New York City.
 
