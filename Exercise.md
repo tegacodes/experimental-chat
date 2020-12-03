@@ -1,5 +1,6 @@
-### Conceptual Prompts: Social Glitch 
+### Developing Concept: Social Glitch 
 
+![image](images/yoko.png)
 
 [Glitch art](https://en.wikipedia.org/wiki/Glitch_art).    
 [Garfinkle's reaching experiments](https://en.wikipedia.org/wiki/Breaching_experiment)  
