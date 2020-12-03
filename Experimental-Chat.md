@@ -1,12 +1,12 @@
-##Introduction to Telematic Art and Experiments in Connection
+## Introduction to Telematic Art and Experiments in Connection
 
-*This lecture is prepared from collaborative research with legendary Carnegie Mellon Prof. Golan Levin. We have written a book on computational art together.*
+*This lecture is prepared from collaborative research with legendary Carnegie Mellon Prof. Golan Levin. We have written [this book](https://mitpress.mit.edu/books/code-creative-medium) on computational art together.*
 
 ### Collective Memory & Experimentatal Collaboration
 
 ##### Cairns
 
-Cairns are human-made piles of stones. Cairns have been and are used for a broad variety of purposes, from prehistoric times to the present, often as landmarks, memorials and trail markers. It is a collaboratively created structure, built one stone at a time, often over the course of centuries.
+A cairn is a human-made pile of stones, often accreted over the course of centuries. Since prehistoric times, these collaborativelyproduced structures have served as landmarks, trail markers, and memorials. They demonstrate asynchonous collaboration.
 
 ![image](images/Shankend-Cairn.jpg)
 
@@ -20,7 +20,7 @@ Andrew Badr's Your World of Text is an infinite grid of text editable by any vis
 
 ##### Telegarden (1995)
 
-Ken Goldberg & Joseph Santarromana's TeleGarden is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
+Ken Goldberg & Joseph Santarromana's TeleGarden is a classic media art installation that allows web users to view and interact with a remote garden filled with living plants. Members watch the garden reomotely and can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
 
 [![](images/telegarden.jpg)](https://youtu.be/BCEC1tfc5Jc)
 
@@ -38,6 +38,7 @@ The Smaller Picture (2002) by Kevan Davis is one of the first massively crowdsou
 Hole in Space (1980) was a "communication sculpture" by Kit Galloway and Sherrie Rabinowitz, which used live two-way video to connect street-level audiences in Los Angeles and New York City.
 
 ![](images/hole-in-space.jpg)
+![](images/hole-in-space-1a.jpg)
 
 ##### The Trace (1995)
 
@@ -55,7 +56,7 @@ Zach Gage's Can We Talk?(2011) "is a chat program for having serious conversatio
 
 *How might you celebrate the glitches in communication (See Menkman's Glitch Manifesto)*
 
-Rosa Menkman's Glitch Studies Manifesto warns that the endless search for a noiseless channel is “no more than a regrettable, ill-fated dogma”. The manifesto goes on to define glitch as disintegration, and as such it is the flipside of synthesis and is a positive disruptor in both art and culture.
+Rosa Menkman's [Glitch Studies Manifesto](https://beyondresolution.info/Glitch-Studies-Manifesto) warns that the endless search for a noiseless channel is “no more than a regrettable, ill-fated dogma”. The manifesto goes on to define glitch as disintegration, and as such it is the flipside of synthesis and is a positive disruptor in both art and culture.
 
 ##### Telephone Picture (László Moholy-Nagy, 1923)
 
@@ -67,23 +68,22 @@ The first use of telecommunications as an artistic medium occurred in 1923 when 
 
 ##### Somebody By Miranda July
 
-A human in the loop messaging app.
+[Somebody is a human](http://somebodyapp.com/) in the loop messaging app. The work exists as an app and a [short film.](https://vimeo.com/105256055)
 
-[https://vimeo.com/105256055](https://vimeo.com/105256055)
 
 ##### MWITM (Man / Woman In The Middle)
 
 Lauren McCarthy and Kyle McDonald play with the concept of a computer security attack called a "man in the middle attack", where the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other. In this case, they set up a system to MITM attack their own relationship. Their texts to each other were intercepted by a server and it had the ability to: modify a message as it is being sent or received, reply to a message instead of modifying or relaying it, and initiate new conversations without any actions from Lauren or Kyle.
 
-![](images/phones-1_o.jpg)
+![https://lauren-mccarthy.com/MWITM-Man-Woman-In-The-Middle](images/phones-1_o.jpg)
 
 ### The Joy of Low Bandwidth
 
-*How might you explore and celebrate limitations?*
+*How might you explore and celebrate constraints/limits?*
 
 ##### the space between us (2015)
 
-the space between us (2015) by David Horvitz is an iOS app which connects two people's phones. Once connected, the app displays the distance and direction to the other person.
+the space between us (2015) by David Horvitz is an iOS app which connects two people's phones. Once connected, the app displays the distance and direction to the other person. [Here is a nice essay on it by Paul Soulellis.](https://rhizome.org/editorial/2015/dec/09/space-between-us/)
 
 ![](images/horvitz_app_01-1200x800.jpg)
 
@@ -100,16 +100,20 @@ Another network-for-two is "[Thumbkiss](https://www.youtube.com/watch?v=NkveWyiU
 
 [![](images/thumbkiss.gif)](https://www.youtube.com/watch?v=NkveWyiU4Go&t=1m47s)
 
+##### Dead Drops (2010-ongoing)
+[Dead Drops](https://arambartholl.com/dead-drops/) started in 2010 as an ongoing participatory project at five different public spaces in New York. USB flash drives are embedded into walls, buildings, and curbs and are accessible to anybody. Each dead drop is installed empty except for a readme.txt file explaining the project. Everyone is invited to drop or find files on a dead drop. 
+
 
 ##### Roll Your Own Social
 
-Darius Kazemi: [https://runyourown.social/](https://runyourown.social/)
-Dolphin Town: [https://dolphin.town/about](https://dolphin.town/about)
+Darius Kazemi has spent a long time considering the rules of social media platforms, work that has inspired a plethora of experiments running small scale social media spaces with different rules and codes of conduct. Read about it: [https://runyourown.social/](https://runyourown.social/)
+
+A particularly hilarious example is Dolphin Town where you can only converse in the sound of dolphin. [https://dolphin.town/about](https://dolphin.town/about)
 
 
 ### Exploring Other Intelligences
 
-What other intelligences can we draw on or attend to? Those lost in the past? Those of the crowd? Those that resist digital mediation?
+What other intelligences can we draw on or attend to in social spaces? Those lost to the past? Those of the crowd? Those that resist digital mediation?
 
 ##### Sandy Speaks (2017)
 
