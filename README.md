@@ -7,7 +7,7 @@ November 2020
 ---- 
 ### Agenda
 
-- Introduction to telematic art and experiments in connection. [Lecture notes.]()  
+- Introduction to telematic art and experiments in connection. [Notes.](https://github.com/tegacodes/experimental-chat/blob/main/Experimental-Chat.md)  
 - p5 + websockets demo (notes below).  
 
 ----
