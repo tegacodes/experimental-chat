@@ -15,6 +15,9 @@ Discuss one of these themes and spend 15 minutes ideating several event scores (
 * attune your attention to an interaction or social protocol that is taken for granted or overlooked    
 * defamilarize or estrange communication (eg. with a social convention, your device, a platform, an app etc.) 
 
-Your prompts should be small gestures that can be described in a one sentence instruction. Brainstorm a list in your groups. Once you have these, discuss how you could take such a prompt and use it as the basis for a project or software interface. Come back and share your promt that was most interesting to you. 
+For example: 
+"Swap phones with a friend for 24 hours"
+
+Your prompts should be small gestures that can be described in a one sentence instruction. Brainstorm a list in your groups. Once you have these, discuss how you could take such a prompt and use it as the basis for a project or software interface. Come back and share whichever prompt that was most interesting to you. 
 
 *Exercise inspired by Lauren Mccarthy and Kyle McDonald. See their class for further examples and resources on social hacking: [Appropriating Interaction Technologies](https://github.com/lmccart/SocialHacking)*
