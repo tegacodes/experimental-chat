@@ -29,6 +29,7 @@ Basic Server example:
 * [https://glitch.com/edit/#!/basic-server](https://glitch.com/edit/#!/basic-server)
 
 Chat example:   
-* [https://glitch.com/edit/#!/p5-socket-chat](https://glitch.com/edit/#!/p5-socket-chat)  
+* See it running here [first.](https://chat-p5-socket.glitch.me/)
+* [https://glitch.com/edit/#!/p5-socket-chat](https://glitch.com/edit/#!/chat-p5-socket)  
 
 
